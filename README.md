@@ -1,5 +1,4 @@
-# Bitcoin
-All Things Bitcoin
+# All Things Bitcoin
 bit·coin
 \ˈbitˌkoin/
 noun
@@ -12,6 +11,5 @@ Origin:
 early 21st century: from bit + coin.
 
 Python3 Bitcoin Programs / Modules.
-@User pip/pip3 install bitcoin
-Above Is Not Required In All Cases.
- ~ J
+@User [pip/pip3 install bitcoin] Is Not Required In All Cases.
+# ~ J.
